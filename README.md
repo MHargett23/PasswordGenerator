@@ -22,11 +22,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated  
 THEN the password is either displayed in an alert or written to the page  
 
- Link to GitHub Repo:  
-https://github.com/MHargett23/PasswordGenerator
+### Link
+[Visit this website](https://mhargett23.github.io/PasswordGenerator/)
 
-Link to deployed site:  
-https://mhargett23.github.io/PasswordGenerator/
-
-Screen shot of deployed site:
-![Password Generator screen shot](images/screenshot.png)
+### Screenshot
+![Screenshot of Portfolio](./assets/images/screenshot.png)
